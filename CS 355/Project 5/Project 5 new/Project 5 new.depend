@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1714588823 source:c:\users\chrys\desktop\cs 355\project 5\project 5 new\main.cpp
+	<iostream>
+	"Sorter.h"
+	"BubbleSort.h"
+	"MergeSorter.h"
+
+1714587630 c:\users\chrys\desktop\cs 355\project 5\project 5 new\sorter.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1714587554 c:\users\chrys\desktop\cs 355\project 5\project 5 new\bubblesort.h
+	"Sorter.h"
+
+1714588718 c:\users\chrys\desktop\cs 355\project 5\project 5 new\mergesorter.h
+	"Sorter.h"
+
