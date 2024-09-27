@@ -1,0 +1,8 @@
+AnticoPizza 4.5 15
+Ray'sInTheCity 4.6 75
+FoxBrosBar-B-Q 4.2 25
+Umi 4.5 100
+Gunshow 4.6 100
+WorldOfCoca-Cola 4 21
+GeorgiaAquarium 4.5 40
+SixFlagsOverGeorgia 3.7

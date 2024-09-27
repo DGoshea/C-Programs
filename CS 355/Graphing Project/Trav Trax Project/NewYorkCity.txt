@@ -1,0 +1,8 @@
+L'Amico 4.2 45
+Benoit 4.4 125
+Kahlo 4.6 50
+IHOP 3.9 15
+Shanghai21 4.5 20
+CentralPark 4.8 0
+EmpireStateBuilding 4.7 44
+BronxZoo 4.6 37

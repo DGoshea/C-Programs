@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1712803091 source:c:\users\chrys\desktop\cs 355\dijkstra's min heap\dijkstra'swithevents\dijkstra's with events\events.cpp
+	<iostream>
+	"events.h"
+
+1712799902 c:\users\chrys\desktop\cs 355\dijkstra's min heap\dijkstra'swithevents\dijkstra's with events\events.h
+	<iostream>
+	<string>
+
+1712852555 source:c:\users\chrys\desktop\cs 355\dijkstra's min heap\dijkstra'swithevents\dijkstra's with events\graph.cpp
+	"graph.h"
+	<iostream>
+
+1712852189 c:\users\chrys\desktop\cs 355\dijkstra's min heap\dijkstra'swithevents\dijkstra's with events\graph.h
+	<iostream>
+	"pQueue.h"
+	"events.h"
+
+1712795898 c:\users\chrys\desktop\cs 355\dijkstra's min heap\dijkstra'swithevents\dijkstra's with events\pqueue.h
+	<iostream>
+	"minimumheap.h"
+
+1712795479 c:\users\chrys\desktop\cs 355\dijkstra's min heap\dijkstra'swithevents\dijkstra's with events\minimumheap.h
+	<iostream>
+
+1713171409 source:c:\users\chrys\desktop\cs 355\dijkstra's min heap\dijkstra'swithevents\dijkstra's with events\main.cpp
+	<iostream>
+	<limits>
+	"graph.h"
+	"pQueue.h"
+

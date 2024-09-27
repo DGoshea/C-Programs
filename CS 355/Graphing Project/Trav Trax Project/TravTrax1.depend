@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1712895273 source:c:\users\jackf\downloads\travtrax1\main.cpp
+	<fstream>
+	"Events.h"
+	<iostream>
+	<limits>
+	"graph.h"
+	"pQueue.h"
+
+1712794666 c:\users\jackf\downloads\travtrax1\minheap.h
+	<iostream>
+
+1712771528 c:\users\jackf\downloads\travtrax1\pqueue.h
+	"minHeap.h"
+	<iostream>
+
+1712895131 c:\users\jackf\downloads\travtrax1\events.h
+	<iostream>
+	<fstream>
+	"pQueue.h"
+
+1712895131 source:c:\users\jackf\downloads\travtrax1\events.cpp
+	"Events.h"
+
+1712894435 source:c:\users\jackf\downloads\travtrax1\graph.cpp
+	"graph.h"
+	<iostream>
+
+1712894477 c:\users\jackf\downloads\travtrax1\graph.h
+	<iostream>
+	"pQueue.h"
+	"Events.h"
+
+1713171198 source:c:\users\chrys\desktop\cs 355\graphing project\trav trax project\main.cpp
+	<iostream>
+	<limits>
+	"graph.h"
+	"pQueue.h"
+
+1713166312 c:\users\chrys\desktop\cs 355\graphing project\trav trax project\events.h
+	<iostream>
+	<fstream>
+	"pQueue.h"
+
+1713167262 c:\users\chrys\desktop\cs 355\graphing project\trav trax project\pqueue.h
+	"minHeap.h"
+	<iostream>
+
+1712941921 c:\users\chrys\desktop\cs 355\graphing project\trav trax project\minheap.h
+	<iostream>
+
+1713168339 c:\users\chrys\desktop\cs 355\graphing project\trav trax project\graph.h
+	<iostream>
+	"pQueue.h"
+	"Events.h"
+
+1712945084 source:c:\users\chrys\desktop\cs 355\graphing project\trav trax project\events.cpp
+	"Events.h"
+
+1713169211 source:c:\users\chrys\desktop\cs 355\graphing project\trav trax project\graph.cpp
+	"graph.h"
+	<iostream>
+

@@ -1,0 +1,13 @@
+Events in priority order (based on the lowest average cost):
+HollywoodSignHike (Rating: 5, Avg Cost for One: $0)
+CelebrityTour (Rating: 4.5, Avg Cost for One: $40)
+Republique (Rating: 4.2, Avg Cost for One: $60)
+Cruise (Rating: 5, Avg Cost for One: $75)
+Bavel (Rating: 4, Avg Cost for One: $80)
+Kato (Rating: 4, Avg Cost for One: $275)
+Providence (Rating: 4.5, Avg Cost for One: $300)
+naka (Rating: 5, Avg Cost for One: $310)
+Top sport events:
+Baseball (Day: Friday, Time: 7:00pm, Team: Dodgers, Cost: $50)
+Soccer (Day: Saturday, Time: 7:30pm, Team: LAFootballClub, Cost: $50)
+Racing (Day: Friday, Time: 7:30am, Team: ToyotaGrandPrix, Cost: $103)

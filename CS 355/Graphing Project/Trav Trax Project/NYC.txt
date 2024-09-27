@@ -1,0 +1,13 @@
+Events in priority order (based on the lowest average cost):
+CentralPark (Rating: 4.8, Avg Cost for One: $0)
+IHOP (Rating: 3.9, Avg Cost for One: $15)
+Shanghai21 (Rating: 4.5, Avg Cost for One: $20)
+BronxZoo (Rating: 4.6, Avg Cost for One: $37)
+EmpireStateBuilding (Rating: 4.7, Avg Cost for One: $44)
+L'Amico (Rating: 4.2, Avg Cost for One: $45)
+Kahlo (Rating: 4.6, Avg Cost for One: $50)
+Benoit (Rating: 4.4, Avg Cost for One: $125)
+Top sport events:
+Baseball (Day: Friday, Time: 7:00pm, Team: Yankees, Cost: $83)
+Basketball (Day: Saturday, Time: 6:00pm, Team: Knicks, Cost: $329)
+Hockey (Day: Saturday, Time: 3:00pm, Team: Rangers, Cost: $352)

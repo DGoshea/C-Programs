@@ -1,0 +1,9 @@
+naka 5 310
+Kato 4 275
+Bavel 4 80
+Providence 4.5 300
+Republique 4.2 60
+CelebrityTour 4.5 40 
+Cruise 5 75
+HollywoodSignHike 5 0 
+
