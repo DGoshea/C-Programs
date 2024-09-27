@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1707175777 source:c:\users\chrys\desktop\cs 355\binary search tree\complete bst class\complete bst\bst.cpp
+	<iostream>
+	"BST.h"
+
+1707257192 c:\users\chrys\desktop\cs 355\binary search tree\complete bst class\complete bst\bst.h
+	<iostream>
+
+1707255808 source:c:\users\chrys\desktop\cs 355\binary search tree\complete bst class\complete bst\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"BST.h"
+

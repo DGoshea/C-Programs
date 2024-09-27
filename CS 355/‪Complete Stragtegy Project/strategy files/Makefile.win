@@ -1,0 +1,103 @@
+# Project: Project1
+# Makefile created by Embarcadero Dev-C++ 6.3
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = Driver.o Strategy01.o Strategy02.o Strategy03.o Strategy04.o Strategy05.o Strategy06.o Strategy07.o Strategy08.o Strategy09.o Strategy10.o Strategy11.o Strategy12.o Strategy13.o Strategy14.o Strategy15.o Strategy16.o Strategy17.o Strategy18.o Strategy19.o Strategy21.o Strategy22.o Strategy23.o Strategy24.o Strategy25.o Strategy20.o
+LINKOBJ  = Driver.o Strategy01.o Strategy02.o Strategy03.o Strategy04.o Strategy05.o Strategy06.o Strategy07.o Strategy08.o Strategy09.o Strategy10.o Strategy11.o Strategy12.o Strategy13.o Strategy14.o Strategy15.o Strategy16.o Strategy17.o Strategy18.o Strategy19.o Strategy21.o Strategy22.o Strategy23.o Strategy24.o Strategy25.o Strategy20.o
+LIBS     = -L"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib" -L"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include"
+CXXINCS  = -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include" -I"C:/Program Files (x86)/Embarcadero/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"
+BIN      = Project1.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+DEL      = C:\Program Files (x86)\Embarcadero\Dev-Cpp\DevCpp.exe INTERNAL_DEL
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${DEL} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+Driver.o: Driver.cpp
+	$(CPP) -c Driver.cpp -o Driver.o $(CXXFLAGS)
+
+Strategy01.o: Strategy01.cpp
+	$(CPP) -c Strategy01.cpp -o Strategy01.o $(CXXFLAGS)
+
+Strategy02.o: Strategy02.cpp
+	$(CPP) -c Strategy02.cpp -o Strategy02.o $(CXXFLAGS)
+
+Strategy03.o: Strategy03.cpp
+	$(CPP) -c Strategy03.cpp -o Strategy03.o $(CXXFLAGS)
+
+Strategy04.o: Strategy04.cpp
+	$(CPP) -c Strategy04.cpp -o Strategy04.o $(CXXFLAGS)
+
+Strategy05.o: Strategy05.cpp
+	$(CPP) -c Strategy05.cpp -o Strategy05.o $(CXXFLAGS)
+
+Strategy06.o: Strategy06.cpp
+	$(CPP) -c Strategy06.cpp -o Strategy06.o $(CXXFLAGS)
+
+Strategy07.o: Strategy07.cpp
+	$(CPP) -c Strategy07.cpp -o Strategy07.o $(CXXFLAGS)
+
+Strategy08.o: Strategy08.cpp
+	$(CPP) -c Strategy08.cpp -o Strategy08.o $(CXXFLAGS)
+
+Strategy09.o: Strategy09.cpp
+	$(CPP) -c Strategy09.cpp -o Strategy09.o $(CXXFLAGS)
+
+Strategy10.o: Strategy10.cpp
+	$(CPP) -c Strategy10.cpp -o Strategy10.o $(CXXFLAGS)
+
+Strategy11.o: Strategy11.cpp
+	$(CPP) -c Strategy11.cpp -o Strategy11.o $(CXXFLAGS)
+
+Strategy12.o: Strategy12.cpp
+	$(CPP) -c Strategy12.cpp -o Strategy12.o $(CXXFLAGS)
+
+Strategy13.o: Strategy13.cpp
+	$(CPP) -c Strategy13.cpp -o Strategy13.o $(CXXFLAGS)
+
+Strategy14.o: Strategy14.cpp
+	$(CPP) -c Strategy14.cpp -o Strategy14.o $(CXXFLAGS)
+
+Strategy15.o: Strategy15.cpp
+	$(CPP) -c Strategy15.cpp -o Strategy15.o $(CXXFLAGS)
+
+Strategy16.o: Strategy16.cpp
+	$(CPP) -c Strategy16.cpp -o Strategy16.o $(CXXFLAGS)
+
+Strategy17.o: Strategy17.cpp
+	$(CPP) -c Strategy17.cpp -o Strategy17.o $(CXXFLAGS)
+
+Strategy18.o: Strategy18.cpp
+	$(CPP) -c Strategy18.cpp -o Strategy18.o $(CXXFLAGS)
+
+Strategy19.o: Strategy19.cpp
+	$(CPP) -c Strategy19.cpp -o Strategy19.o $(CXXFLAGS)
+
+Strategy21.o: Strategy21.cpp
+	$(CPP) -c Strategy21.cpp -o Strategy21.o $(CXXFLAGS)
+
+Strategy22.o: Strategy22.cpp
+	$(CPP) -c Strategy22.cpp -o Strategy22.o $(CXXFLAGS)
+
+Strategy23.o: Strategy23.cpp
+	$(CPP) -c Strategy23.cpp -o Strategy23.o $(CXXFLAGS)
+
+Strategy24.o: Strategy24.cpp
+	$(CPP) -c Strategy24.cpp -o Strategy24.o $(CXXFLAGS)
+
+Strategy25.o: Strategy25.cpp
+	$(CPP) -c Strategy25.cpp -o Strategy25.o $(CXXFLAGS)
+
+Strategy20.o: Strategy20.cpp
+	$(CPP) -c Strategy20.cpp -o Strategy20.o $(CXXFLAGS)
